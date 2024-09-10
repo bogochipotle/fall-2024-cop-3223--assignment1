@@ -41,7 +41,6 @@ double calculatePerimeter() {
     return 3.0;
 }
 
-// Function to calculate area
 double calculateArea() {
     double distance = calculateDistance();
     double area = PI * pow(distance / 2, 2);
