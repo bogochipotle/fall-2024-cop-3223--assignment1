@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 
+// The first guideline of having #define PI be equal to the first 6 digits of PI
 #define PI 3.14159
 
 double calculateDistance();
@@ -11,6 +12,7 @@ double calculateArea();
 double calculateWidth();
 double calculateHeight();
 
+// Main function with distance, perimenter, area, width, and height all listed
 int main(void) {
     calculateDistance();
     calculatePerimeter();
@@ -20,6 +22,7 @@ int main(void) {
     return 0;
 }
 
+// Distance function that asks for both points and after finds the distance
 double calculateDistance() {
     double x1, y1, x2, y2;
     printf("Enter coordinates for Point #1 (x1 y1): ");
@@ -41,6 +44,7 @@ double calculatePerimeter() {
     return 3.0;
 }
 
+// Area section that I used the article on pow for
 double calculateArea() {
     double distance = calculateDistance();
     double area = PI * pow(distance / 2, 2);
