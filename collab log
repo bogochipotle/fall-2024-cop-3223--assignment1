@@ -1,0 +1,33 @@
+Jake Johnson
+09/09/2024
+Introduction to Programming in C
+Assignment 1
+Collaboration Log
+Professor Parra
+
+Collaboration Log
+
+https://www.geeksforgeeks.org/c-define-preprocessor/
+
+I used this website to better understand one of the special requirements of #define and setting it as PI
+	09/08/24	3:00pm	15 mins
+
+Multiple collaborations but more recently on the Assignment 1 discussion about how to see an example of output from user 1rmytr trying to understand what my code should put out
+	09/08/23	6:30 pm	25 mins
+
+https://www.programiz.com/c-programming/library-function/math.h/pow
+Understanding pow in c and how to implement it into my code
+	09/09/24	2:00 pm	15 mins
+
+Collaboration with ChatGPT and I gave the prompt of “How can I create a distance formula using C that finds distance when given two points?”
+	09/09/24	2:30 pm	30 mins
+
+https://stackoverflow.com/questions/12824134/undefined-reference-to-pow-in-c-despite-including-math-h
+I kept getting an error message I thought was due to compiling but this link helped me solve my issue since it was similar but using volume instead of height, distance, and the others
+	09/09/24	5:00 pm	20 mins
+
+ChatGPT prompt of “How should I incorporate the difficulty in my assignment, using a decimal or using no decimal?”
+	09/09/24	9:00pm	10 mins
+
+Another ChatGPT prompt of “I need the information of this code to be displayed in a way that doesn’t redundantly show the distance of the points.”
+	09/09/24	10:30pm	20 mins
